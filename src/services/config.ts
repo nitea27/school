@@ -62,8 +62,8 @@ export class ConfigService{
 		this.per_view = 5;
 		this.settings ={
 			'version':1,
-			'url':'https://wplms.io/',
-			'client_id':'9gWLZgmn45Es4cjoAUPopRX',
+			'url':'https://nicedelhi.com/',
+			'client_id':'Mps0bCYrCaMDoXVwgnYYy3e',
 			'client_secret':'', //Fetched from API call
 			'state':'', // FETCHED from Site
 			'access_token':'', // FETCHED on Login 
